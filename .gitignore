@@ -1,9 +1,10 @@
 
 
 a.out
-
 *.exe
-
 *.jnl
-
-
+*.mod
+*.out
+*.ipynb*
+*.out
+*.o
